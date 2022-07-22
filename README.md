@@ -5,4 +5,5 @@ This application is called Automatic Notes Creator that can be used to write and
 Heroku link: https://auto-notes-2022.herokuapp.com/
 github link: https://github.com/aarthigans/Automatic-Notes-Creator
 <img src="src\Screenshot .png">
+Video link: https://drive.google.com/file/d/1oTyI92jFe-XtFGsY2cFobBM55kD3eGap/view
 
